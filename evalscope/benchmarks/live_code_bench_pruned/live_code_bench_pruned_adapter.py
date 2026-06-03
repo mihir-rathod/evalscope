@@ -147,6 +147,9 @@ class LiveCodeBenchPrunedAdapter(LiveCodeBenchAdapter):
         )
         # Populated by _build_selected_set() before loading starts
         self._selected_indices: Optional[Set[int]] = None
+        # Sequential counter — incremented by record_to_sample so each row
+        # gets the same 0-based index that the review files use.
+        self._row_counter: int = 0
 
     # ------------------------------------------------------------------
     # Dataset loading
@@ -209,23 +212,16 @@ class LiveCodeBenchPrunedAdapter(LiveCodeBenchAdapter):
 
     def record_to_sample(self, record: Dict[str, Any]) -> Sample:
         """
-        Delegate to parent, then inject the row index into metadata so
-        ``sample_filter`` can use it.
+        Delegate to parent, then stamp the dataset row index onto the Sample
+        metadata so ``sample_filter`` can cross-reference it with the
+        pre-computed allow-list.
 
-        The row index is read from the ``__index_level_0__`` field that
-        HuggingFace datasets expose when converted to list of dicts, falling
-        back to a ``_row_idx`` counter if that field is absent.
+        ``data_to_samples`` iterates the dataset list sequentially, so
+        ``self._row_counter`` matches the 0-based index that the evalscope
+        evaluator assigns as ``sample_id`` — the same scheme used by the
+        review JSONL files in ``data/lcb_item_scores.json``.
         """
         sample = super().record_to_sample(record)
-
-        # Prefer the HF row index field; fall back to sequential counter
-        row_idx = record.get('__index_level_0__', record.get('_row_idx'))
-        if row_idx is None:
-            # Last resort: use contest_date + question hash as a proxy
-            # (not needed when HF field is present, but safe fallback)
-            row_idx = record.get('question_id', record.get('problem_id'))
-
-        if row_idx is not None:
-            sample.metadata[self._PRUNER_IDX_KEY] = int(row_idx)
-
+        sample.metadata[self._PRUNER_IDX_KEY] = self._row_counter
+        self._row_counter += 1
         return sample

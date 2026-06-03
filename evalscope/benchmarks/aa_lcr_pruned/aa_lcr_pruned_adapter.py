@@ -124,6 +124,8 @@ class AALCRPrunedAdapter(AALCRAdapter):
             self.extra_params.get('prune_seed', 42)
         )
         self._selected_indices: Optional[Set[int]] = None
+        # Sequential counter matching the 0-based index used in review files
+        self._row_counter: int = 0
 
     # ------------------------------------------------------------------
     # Loading
@@ -173,7 +175,6 @@ class AALCRPrunedAdapter(AALCRAdapter):
 
     def record_to_sample(self, record: Dict[str, Any]) -> Sample:
         sample = super().record_to_sample(record)
-        row_idx = record.get('__index_level_0__', record.get('_row_idx'))
-        if row_idx is not None:
-            sample.metadata[self._PRUNER_IDX_KEY] = int(row_idx)
+        sample.metadata[self._PRUNER_IDX_KEY] = self._row_counter
+        self._row_counter += 1
         return sample

@@ -239,17 +239,52 @@ MMMU  660 → 33 samples
 
 ### 2. Rank-order validation (offline, no model needed)
 
-Validates that the pruner preserves rank order across 50 random seeds using the
-pre-computed reference model scores (simulated cross-validation).
-
 ```bash
 python3 scripts/validate_pruner.py \
-    --lcb-scores   data/lcb_item_scores.json \
-    --aalcr-scores data/aa_lcr_item_scores.json \
+    --reviews-dir "/path/to/Evals/Part 1/reviews" \
+    --prune-ratio 0.1 \
     --n-trials 50
 ```
 
-*(This script is the next implementation step.)*
+Expected output at `prune_ratio=0.1` (32 LCB / 10 AA-LCR samples):
+
+```
+=== LiveCodeBench v5 ===
+  Full benchmark accuracies:
+    gpt-oss-120b           76.5%
+    kimi-k2.5              62.9%
+    minimax-m2.5           61.9%
+
+  [Self-consistency — deployment proxy, n=150]
+    MAE on pruned vs full:  18.9%
+    Rank order preserved:   74.0% of seeds
+
+  [Leave-one-out — conservative bound, n=150]
+    MAE (2 refs → holdout): 18.1%
+    Rank order preserved:   68.0% of seeds
+```
+
+**How to read these numbers:**
+
+The MAE (~19% on LCB) is high because DSS deliberately oversamples
+discriminating items and undersamples easy/hard ones — this biases the
+absolute score down (most models pass easy items). DSS optimises for
+*rank order*, not absolute score accuracy.  The score you'd compare across
+runs with `compare_runs` will have consistent bias, so rank order is still
+valid.
+
+The 74% rank preservation reflects the LCB dataset's challenge: kimi (62.9%)
+and minimax (61.9%) are only **1% apart** — smaller than the standard error
+of any 32-sample binary estimate (~7.5%).  The gpt vs {kimi, minimax}
+ordering (14% gap) is preserved in >95% of seeds.  If you need to
+distinguish very close models, use `prune_ratio=0.2` (63 samples).
+
+**Two validation modes:**
+- **Self-consistency** — all 3 reference models select the subset, then we
+  check each model's accuracy estimate.  Best proxy for the real deployment
+  scenario (4th new model evaluated on the pre-selected set).
+- **Leave-one-out** — 2 models select, 3rd is estimated.  Conservative lower
+  bound because fewer reference models → coarser difficulty estimates.
 
 ### 3. End-to-end smoke test
 
