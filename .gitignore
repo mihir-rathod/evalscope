@@ -146,7 +146,8 @@ evalscope/data/
 
 
 /tmp
-/data*
+/data.zip
+/dataset*
 *.zip
 output/
 /test*.*

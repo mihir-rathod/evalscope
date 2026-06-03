@@ -1,0 +1,6602 @@
+[
+  {
+    "id": "validation_Accounting_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_15",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Accounting_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Accounting_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Accounting_5",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_22",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_20",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Screenshots']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Accounting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Accounting_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Investment",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Accounting_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Accounting_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Accounting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Agriculture_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_15",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Agriculture_12",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Animal Nutrition",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Agriculture_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Agriculture_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Agriculture_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_8",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Agriculture_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Soil Science",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_13",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_22",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Agriculture_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Agriculture_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Agriculture_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Plant Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_22",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_14",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Technical Blueprints']",
+      "subfield": "Structural Engineering",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sketches and Drafts']",
+      "subfield": "Structural Engineering",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_13",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Structural Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Civil Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Civil Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Structural Engineering",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_16",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Civil Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Civil Engineering",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Structural Engineering",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Screenshots']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_29",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Architecture_and_Engineering_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Surveying and Mapping",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Art_8",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Sculpture",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_15",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Visual Arts",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_14",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_20",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_22",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Portraits']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Fine Arts",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sculpture']",
+      "subfield": "Sculpture",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Photography",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings', 'Portraits']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_19",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Photography",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Fine Arts",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Portraits']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_16",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_12",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Drawing and Painting",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_4",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sketches and Drafts', 'Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Portraits']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sculpture']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sculpture']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art Criticism",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Visual Culture",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs', 'Technical Blueprints']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs', 'Landscapes']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Portraits']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_16",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Aesthetics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs', 'Sculpture']",
+      "subfield": "Art History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Art_Theory_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Visual Culture",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Biochemistry and Genetics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Cellular Physiology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_14",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Biochemistry and Genetics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Medical Images']",
+      "subfield": "Cellular Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Cardiovascular Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_1",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Neuroanatomy",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_23",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Pathological Images']",
+      "subfield": "Cellular Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Cellular Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_6",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Sketches and Drafts']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_12",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_25",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Cellular Physiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Neurophysiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Biochemistry and Genetics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_10",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Anatomy",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Neurophysiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Cardiovascular Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Microbiology and Immunology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_28",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Cellular Physiology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Basic_Medical_Science_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images', 'Medical Images']",
+      "subfield": "Pathophysiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Ecology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Body Scans: MRI, CT scans, and X-rays', 'Medical Images']",
+      "subfield": "Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_29",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Cell Biology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Microbiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_10",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Trees and Graphs']",
+      "subfield": "Genetics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Evolution",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sketches and Drafts', 'Medical Images']",
+      "subfield": "Physiology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Biology_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Evolution",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_8",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Animal Behavior",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Trees and Graphs']",
+      "subfield": "Evolution",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_3",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Cell Biology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_21",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Microbiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Genetics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_1",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Genetics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_2",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Cell Biology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_13",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_23",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Genetics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Microbiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Microbiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Genetics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Microbiology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Portraits']",
+      "subfield": "Ecology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Animal Physiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'DNA Sequences']",
+      "subfield": "",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Biology_22",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Genetics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Biology_9",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Molecular Biology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Chemistry_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_5",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Chemistry_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Biochemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_12",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Chemistry_4",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Chemistry_7",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Chemistry_13",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_21",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Chemistry_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Other']",
+      "subfield": "Physical Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Chemistry_9",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Biochemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Chemistry_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Chemistry_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Chemistry_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_20",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Chemistry_23",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Physical Chemistry",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Chemistry_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Chemistry_3",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_6",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Chemistry_25",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Chemistry_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Organic Chemistry",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Chemistry_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Inorganic Chemistry",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_18",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images', 'Photographs']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_20",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Dental",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays', 'Medical Images']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_2",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Cardiovascular Medicine",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Body Scans: MRI, CT scans, and X-rays', 'Pathological Images']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_16",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_24",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Medical Images']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Pathological Images']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs', 'Medical Images']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_13",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays', 'Pathological Images']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays', 'Medical Images']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_14",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays', 'Pathological Images']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_3",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_5",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays', 'Medical Images']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Clinical Radiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Clinical Medicine",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Clinical_Medicine_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Clinical Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Mathematical Notations']",
+      "subfield": "Artificial Intelligence",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_2",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_6",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Artificial Intelligence",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Operating System",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_12",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Trees and Graphs']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Trees and Graphs']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Compiler Principle",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Artificial Intelligence",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_25",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Artificial Intelligence",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Operating System",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_20",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Database",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Operating System",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Trees and Graphs']",
+      "subfield": "Computer Network",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_24",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Database",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Compiler Principle",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Compiler Principle",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_1",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Operating System",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Trees and Graphs']",
+      "subfield": "Compiler Principle",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Data Structure and Algorithm",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Computer Network",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Artificial Intelligence",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_15",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Database",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_9",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Computer Network",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_26",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Computer Network",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Computer_Science_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Trees and Graphs']",
+      "subfield": "Compiler Principle",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Design_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Fashion Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Design History",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Design_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Fashion Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Interior Design",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Digital Art",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Design_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs', 'Advertisements']",
+      "subfield": "Industrial Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Interior Design",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Interior Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Icons and Symbols']",
+      "subfield": "Industrial Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Design History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Industrial Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Portraits']",
+      "subfield": "Design History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Design History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sculpture']",
+      "subfield": "Design History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_1",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Photographs']",
+      "subfield": "Design History",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Design_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Design History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sculpture']",
+      "subfield": "Design History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Logos and Branding']",
+      "subfield": "Industrial Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Fashion Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings', 'Sculpture']",
+      "subfield": "Industrial Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Industrial Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fashion Design",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Design History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sculpture']",
+      "subfield": "Design History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Fashion Design",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Design_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Industrial Design",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_15",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Design History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_2",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Design History",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Design_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Design History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Design_3",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Fashion Design",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Ophthalmic Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Radiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_19",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_20",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Pathological Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Radiology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images', 'Medical Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_26",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Other']",
+      "subfield": "Electrocardiography",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Pathological Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_21",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images', 'Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_14",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_7",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_8",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Pathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Microscopic Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_1",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_16",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Body Scans: MRI, CT scans, and X-rays']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Medical Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Diagnostics_and_Laboratory_Medicine_12",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Pathological Images', 'Medical Images']",
+      "subfield": "Neuropathology",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Principals of Economics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_21",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Principals of Economics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Microeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_1",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Principals of Economics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_28",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Microeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Principals of Economics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_3",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_23",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Economics_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Principals of Economics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Economics_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Microeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_26",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Econometrics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Principals of Economics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Economics_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Economics_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Macroeconomics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Electronics_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_26",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Electronics_21",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Electronics_27",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Electronics_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_6",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_13",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Electronics_12",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Analog Electronics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Electronics_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Electronics_5",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Analog Electronics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Electronics_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Analog Electronics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Electronics_24",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Analog Electronics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_4",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Analog Electronics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_25",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Analog Electronics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Electronics_9",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_29",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Electronics_16",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sketches and Drafts']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Electronics_2",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Signal Processing",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Electronics_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Electrical Circuit",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_4",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_13",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Heat Transfer",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Technical Blueprints']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_6",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Heat Transfer",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_14",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Heat Transfer",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Heat Transfer",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_15",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_25",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fluid Mechanics",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Energy_and_Power_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Thermodynamics",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Finance_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Management",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Finance_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Finance_23",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Management",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Finance_14",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Finance_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Finance_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_10",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Finance_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Finance_21",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Finance_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Finance_25",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Marketing",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Finance_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Finance_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Finance_24",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Marketing",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_15",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Finance_20",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Finance_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Marketing",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_5",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Finance_8",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Managerial Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Financial Marketing",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Finance_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Corporate Finance",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_13",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Geography_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Geometric Shapes']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_22",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Geographic Information Systems",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Physical Geography",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_2",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_1",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Technical Blueprints']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Geography_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps', 'Photographs']",
+      "subfield": "Physical Geography",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Physical Geography",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_14",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Technical Blueprints']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Geography_27",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_9",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "International Geography Olympiad",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Geography_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps', 'Photographs']",
+      "subfield": "International Geography Olympiad",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "International Geography Olympiad",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Physical Geography",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Physical Geography",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_4",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Physical Geography",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Geography_7",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "International Geography Olympiad",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Geotechnical Engineering",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Geography_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Physical Geography",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sketches and Drafts', 'Paintings']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "World History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "U.S. History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Comics and Cartoons']",
+      "subfield": "U.S. History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "U.S. History",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_History_6",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons', 'Poster']",
+      "subfield": "World History",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_History_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "U.S. History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Maps', 'Trees and Graphs']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "Modern History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sculpture']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "European History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "Modern History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_2",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "U.S. History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "U.S. History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "European History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_29",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "World History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "World History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "World History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Landscapes']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_10",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "World History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Modern History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "U.S. History",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_History_5",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Modern History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "European History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "World History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_History_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Maps']",
+      "subfield": "World History",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Literature_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Geometric Shapes']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Literature_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Drama",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Literature_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "American Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings', 'Screenshots']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Literature_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Literature_28",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs', 'Portraits']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Literature_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "American Literature",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Literature_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Portraits']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Fiction",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Contemporary Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings', 'Comics and Cartoons']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Fiction",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_21",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Logos and Branding']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Poster']",
+      "subfield": "Contemporary Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Screenshots']",
+      "subfield": "Fiction",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Drama",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Poster']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Literature_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Photographs']",
+      "subfield": "Children's Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Literature_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Icons and Symbols']",
+      "subfield": "Comparative Literature",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Manage_6",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sketches and Drafts']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Manage_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Principles of Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_27",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Paintings']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Manage_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Manage_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Manage_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Principles of Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_20",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Operations Management",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Manage_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Principles of Management",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Manage_11",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_3",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Cost Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_17",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Business Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Project Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Cost Management",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Manage_25",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Project Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Principles of Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_23",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Operations Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_4",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Strategic Management",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Manage_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts', 'Comics and Cartoons']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Principles of Management",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Manage_19",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Manage_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_7",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Other']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Manage_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Principles of Management",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Manage_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Principles of Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Comics and Cartoons']",
+      "subfield": "Management Models",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Manage_21",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Operations Management",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Marketing_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_4",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_27",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_3",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_6",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Marketing_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_8",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_18",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Marketing_28",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_22",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_19",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Marketing_1",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Marketing_30",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Plots and Charts']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Marketing_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Marketing_2",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Market Research",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_6",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Mathematical Notations']",
+      "subfield": "Materials Science",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_3",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_21",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_20",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_13",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_7",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Technical Blueprints']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_16",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_28",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Materials Science",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_17",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Chemical Structures']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_4",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_26",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_22",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_11",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_23",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_25",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Materials Science",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Materials_8",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Materials Science",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_12",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Materials_1",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_9",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Technical Blueprints']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Materials_10",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Sketches and Drafts']",
+      "subfield": "Materials Science",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Materials_30",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_5",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_19",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams', 'Geometric Shapes']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_18",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_27",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_24",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Materials Science",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_14",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Easy"
+    }
+  },
+  {
+    "id": "validation_Materials_29",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Materials Science",
+      "topic_difficulty": "Medium"
+    }
+  },
+  {
+    "id": "validation_Materials_2",
+    "avg_score": 0.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Diagrams']",
+      "subfield": "Mechanics of Materials",
+      "topic_difficulty": "Hard"
+    }
+  },
+  {
+    "id": "validation_Materials_15",
+    "avg_score": 1.0,
+    "variance": 0.25,
+    "metadata": {
+      "img_type": "['Tables']",
+      "subfield": "Materials Science",
+      "topic_difficulty": "Medium"
+    }
+  }
+]

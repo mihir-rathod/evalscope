@@ -37,7 +37,7 @@ include-package-data = true
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["evalscope*"]
+include = ["evalscope*", "evalscope_ext*"]
 exclude = ["evalscope.web.node_modules*", "evalscope.web.src*"]
 
 [tool.setuptools.dynamic]
