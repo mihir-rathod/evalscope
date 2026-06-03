@@ -1,5 +1,42 @@
 # Benchmark Compression — Task 2
 
+> **Upstream evalscope base commit:** `c14dbaf94e9129f7054ad4a184c2ff0cae2e6a5d`
+> Developed against [modelscope/evalscope](https://github.com/modelscope/evalscope) at this exact SHA.
+> Pin this if you need to reproduce the exact environment.
+
+---
+
+## Run Contract
+
+These are the exact three commands described in the assessment README:
+
+```bash
+# 1. Run the full benchmark (baseline)
+evalscope eval --model <model> --datasets live_code_bench --output ./results_full/
+
+# 2. Run the pruned version (10% of questions)
+evalscope eval --model <model> --datasets live_code_bench_pruned \
+    --dataset-args '{"live_code_bench_pruned": {"extra_params": {"prune_ratio": 0.1}}}' \
+    --output ./results_pruned/
+
+# 3. Compare rank order
+python -m evalscope_ext.tools.compare_runs --full ./results_full/ --pruned ./results_pruned/
+```
+
+Same pattern for AA-LCR and MMMU:
+
+```bash
+evalscope eval --model <model> --datasets aa_lcr_pruned \
+    --dataset-args '{"aa_lcr_pruned": {"extra_params": {"prune_ratio": 0.1}}}' \
+    --output ./results_aalcr_pruned/
+
+evalscope eval --model <model> --datasets mmmu_pruned \
+    --dataset-args '{"mmmu_pruned": {"extra_params": {"prune_ratio": 0.05}}}' \
+    --output ./results_mmmu_pruned/
+```
+
+---
+
 This directory contains a universal benchmark pruning system implemented inside
 the evalscope fork. It adds three pruned benchmarks and a comparison tool
 without modifying any existing evalscope code.
