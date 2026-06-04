@@ -48,18 +48,31 @@ without modifying any existing evalscope code.
 ### The Problem
 
 Running a full benchmark is expensive:
-- **LiveCodeBench v5** (LCB): 315 coding problems × sandbox execution time
-- **AA-LCR**: 100 long-context questions × LLM judge cost
-- **MMMU**: ~12 000 vision questions
+- **LiveCodeBench v5 (LCB):** 315 coding problems, graded by sandbox execution (pass ∈ {0, 1})
+- **AA-LCR:** 100 long-context retrieval questions, graded by LLM judge (acc ∈ {0, 1})
+- **MMMU:** ~12,000 vision questions
 
-For frequent go/no-go model gating, you need a fast proxy that gives the same
-rank-order signal at a fraction of the cost.
+For frequent go/no-go model gating, you need a fast proxy that gives the same rank-order signal at a fraction of the cost.
+
+**Actual model scores (from analysis of the shipped data):**
+
+| Benchmark | gpt-oss-120b | kimi-k2.5 | minimax-m2.5 |
+|---|---|---|---|
+| LCB (pass@1) | 76.5% | 62.9% | 61.9% |
+| AA-LCR (acc) | 48.0% | 66.0% | 64.0% |
+
+**LCB sample breakdown:** 
+- 158 all-pass
+- 46 all-fail
+- 111 discriminating (models disagree)
+
+The 158 easy + 46 hard samples add almost zero rank-order information — they're the same for every model.
+
+**The pruning goal:** Select the smallest subset that preserves the relative ranking and approximate magnitude of scores across models — and generalises to a fourth model we haven't seen.
 
 ### The Solution: Discriminative Stratified Sampling (DSS)
 
-Not all samples are equally informative. A problem that every model solves (or
-no model solves) tells you nothing about relative ranking. The 50 % of LCB
-problems that every model passes add zero rank-order signal.
+Not all samples are equally informative. As shown above, 65% of LCB problems (all-pass/all-fail) add zero rank-order signal.
 
 DSS identifies and prioritises **discriminating samples** — those where models
 disagree — and allocates the pruning budget across three difficulty tiers:
