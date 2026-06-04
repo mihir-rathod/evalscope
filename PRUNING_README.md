@@ -12,12 +12,12 @@ These are the exact three commands described in the assessment README:
 
 ```bash
 # 1. Run the full benchmark (baseline)
-evalscope eval --model <model> --datasets live_code_bench --output ./results_full/
+evalscope eval --model <model> --datasets live_code_bench --work-dir ./results_full/
 
 # 2. Run the pruned version (10% of questions)
 evalscope eval --model <model> --datasets live_code_bench_pruned \
     --dataset-args '{"live_code_bench_pruned": {"extra_params": {"prune_ratio": 0.1}}}' \
-    --output ./results_pruned/
+    --work-dir ./results_pruned/
 
 # 3. Compare rank order
 python -m evalscope_ext.tools.compare_runs --full ./results_full/ --pruned ./results_pruned/
@@ -28,11 +28,11 @@ Same pattern for AA-LCR and MMMU:
 ```bash
 evalscope eval --model <model> --datasets aa_lcr_pruned \
     --dataset-args '{"aa_lcr_pruned": {"extra_params": {"prune_ratio": 0.1}}}' \
-    --output ./results_aalcr_pruned/
+    --work-dir ./results_aalcr_pruned/
 
 evalscope eval --model <model> --datasets mmmu_pruned \
     --dataset-args '{"mmmu_pruned": {"extra_params": {"prune_ratio": 0.05}}}' \
-    --output ./results_mmmu_pruned/
+    --work-dir ./results_mmmu_pruned/
 ```
 
 ---
