@@ -178,22 +178,22 @@ includes `evalscope_ext*` in the package discovery.
 evalscope eval \
     --model <your_model> \
     --datasets live_code_bench_pruned \
-    --dataset-args '{"live_code_bench_pruned": {"prune_ratio": 0.1}}' \
-    --output ./results_lcb_pruned/
+    --dataset-args '{"live_code_bench_pruned": {"extra_params": {"prune_ratio": 0.1}}}' \
+    --work-dir ./results_lcb_pruned/
 
 # AA-LCR — pruned (10 samples instead of 100)
 evalscope eval \
     --model <your_model> \
     --datasets aa_lcr_pruned \
-    --dataset-args '{"aa_lcr_pruned": {"prune_ratio": 0.1}}' \
-    --output ./results_aalcr_pruned/
+    --dataset-args '{"aa_lcr_pruned": {"extra_params": {"prune_ratio": 0.1}}}' \
+    --work-dir ./results_aalcr_pruned/
 
 # MMMU — encoder-stress probe (33 samples, oversamples encoder-heavy types)
 evalscope eval \
     --model <your_model> \
     --datasets mmmu_pruned \
-    --dataset-args '{"mmmu_pruned": {"prune_ratio": 0.05}}' \
-    --output ./results_mmmu_probe/
+    --dataset-args '{"mmmu_pruned": {"extra_params": {"prune_ratio": 0.05}}}' \
+    --work-dir ./results_mmmu_probe/
 ```
 
 ### Compare pruned vs full results
@@ -203,7 +203,7 @@ evalscope eval \
 evalscope eval \
     --model <your_model> \
     --datasets live_code_bench \
-    --output ./results_lcb_full/
+    --work-dir ./results_lcb_full/
 
 # Then compare
 python -m evalscope_ext.tools.compare_runs \
@@ -330,8 +330,8 @@ distinguish very close models, use `prune_ratio=0.2` (63 samples).
 evalscope eval \
     --model qwen/Qwen2.5-0.5B-Instruct \
     --datasets live_code_bench_pruned \
-    --dataset-args '{"live_code_bench_pruned": {"prune_ratio": 0.05}}' \
-    --output ./smoke_test/
+    --dataset-args '{"live_code_bench_pruned": {"extra_params": {"prune_ratio": 0.05}}}' \
+    --work-dir ./smoke_test/
 ```
 
 ---
